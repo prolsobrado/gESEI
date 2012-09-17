@@ -45,7 +45,8 @@ Funcionalidades del sistema:
 
 Funciones de los usuarios:
 - Administradores: Pueden hacer todo.
-- Directores:
-- Secretarios:
-- Becarios:
-- Alumnos: C de recurss físicos, MC de recursos humanos...
+- Directores:      ABMC ABMC ABMC ABMC ABMC ABMC ABMC AC AC C
+- Secretarios:     ABMC ABMC MC   MC   ABMC ABMC ABMC AC AC C
+- Profesores:      MC   MC   MC   MC   MC   C    ABMC AC AC C
+- Becarios:        MC   MC   C    C    C    C    ABMC AC AC C
+- Alumnos:         C    MC   C    C    C    C    C    AC AC C
