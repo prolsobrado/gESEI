@@ -1,32 +1,28 @@
 Objetivos del proyecto
 
-El principal objetivo de este proyecto es construir un sistema automatizado que facilite todos los 
-procesos relacionados con el control de asistencia en la ESEI. El sistema debe permitir:
-? Gestión de asignaturas, horarios y recursos docentes (aulas, laboratorios, …) 
-? Gestión del calendario docente (inicio/fin cuatrimestres, festivos,  …)? Gestión del encargo docente (asignación de horas de docencia para cada profesor en 
-cada asignatura)
-? Gestión de tutorías del profesorado
-? Gestión de becarios: asignación de becarios y horarios
-? Control de asistencia a clase del profesorado 
-? Control del cumplimiento de tutorías del profesorado
-? Control de asistencia a clase de prácticas de los alumnos (en caso de solicitud)
-? Gestión de incidencias relativas a profesorado y becarios (acciones a realizar en caso 
-de incumplimento de horarios)
-? Control de cambios (horarios de clase y tutorías)
-? Gestión de datos de los usuarios del sistema
-? Importación/exportación de datos del sistema (por ejemplo, importar los alumnos 
-matriculados en una asignatura, en caso de solicitud)
-? Emisión de informes y estadísticas
+El principal objetivo de este proyecto es construir un sistema automatizado que facilite todos los procesos relacionados con el control de asistencia en la ESEI. El sistema debe permitir:
+- GestiÃ³n de asignaturas, horarios y recursos docentes (aulas, laboratorios, ...) 
+- GestiÃ³n del calendario docente (inicio/fin cuatrimestres, festivos, ...)
+- GestiÃ³n del encargo docente (asignaciÃ³n de horas de docencia para cada profesor en cada asignatura)
+- GestiÃ³n de tutorÃ­as del profesorado
+- GestiÃ³n de becarios: asignaciÃ³n de becarios y horarios
+- Control de asistencia a clase del profesorado 
+- Control del cumplimiento de tutorÃ­as del profesorado
+- Control de asistencia a clase de prÃ¡cticas de los alumnos (en caso de solicitud)
+- GestiÃ³n de incidencias relativas a profesorado y becarios (acciones a realizar en caso de incumplimento de horarios)
+- Control de cambios (horarios de clase y tutorï¿½as)
+- GestiÃ³n de datos de los usuarios del sistema
+- ImportaciÃ³n/exportaciÃ³n de datos del sistema (por ejemplo, importar los alumnos matriculados en una asignatura, en caso de solicitud)
+- EmisiÃ³n de informes y estadÃ­sticas
 
 Objetivos no funcionales: 
-? Facilitar acceso al sistema a través de diferentes dispositivos como teléfonos móviles, 
-tabletas, etc.
-? Utilización de software libre
+- Facilitar acceso al sistema a travÃ©s de diferentes dispositivos como telÃ©fonos mÃ³viles, tabletas, etc.
+- UtilizaciÃ³n de software libre
 
 El sistema debe permitir los siguientes tipos de usuarios:
-? Administradores
-? Dirección del centro
-? Secretaría del centro
-? Profesores
-? Becarios
-? Alumnos
+- Administradores
+- DirecciÃ³n del centro
+- SecretarÃ­a del centro
+- Profesores
+- Becarios
+- Alumnos
