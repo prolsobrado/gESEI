@@ -10,7 +10,7 @@ El principal objetivo de este proyecto es construir un sistema automatizado que 
 - Control del cumplimiento de tutorías del profesorado
 - Control de asistencia a clase de prácticas de los alumnos (en caso de solicitud)
 - Gestión de incidencias relativas a profesorado y becarios (acciones a realizar en caso de incumplimento de horarios)
-- Control de cambios (horarios de clase y tutor�as)
+- Control de cambios (horarios de clase y tutorías)
 - Gestión de datos de los usuarios del sistema
 - Importación/exportación de datos del sistema (por ejemplo, importar los alumnos matriculados en una asignatura, en caso de solicitud)
 - Emisión de informes y estadísticas
