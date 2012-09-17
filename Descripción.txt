@@ -26,3 +26,26 @@ El sistema debe permitir los siguientes tipos de usuarios:
 - Profesores
 - Becarios
 - Alumnos
+
+----------
+VAMOS ALLÁ
+----------
+
+Funcionalidades del sistema:
+- ABMC de recursos físicos (Aulas, laboratorios, seminarios, despachos...)
+- ABMC de recursos humanos (Administradores, directores, sectretarios, profesores, becarios y alumnos)
+- ABMC de asignaturas
+- ABMC de calendario escolar
+- ¿ABMC de horarios de profesores?
+- ¿ABMC de horarios de becarios?
+- ¿ABMC de cambios puntuales?
+- AC de estancias/firmas
+- AC de incidencias
+- C de estadísticas y gráficos
+
+Funciones de los usuarios:
+- Administradores: Pueden hacer todo.
+- Directores:
+- Secretarios:
+- Becarios:
+- Alumnos: C de recurss físicos, MC de recursos humanos...
